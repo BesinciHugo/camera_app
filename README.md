@@ -5,4 +5,4 @@ Bu uygulama sizin uygulama icinden cektiginiz yada galeriden sectiginiz bir foto
 Bu uygulamada kazanimlarim
 1. Galeriye ulasmak
 2. Kameraya ulasmak
-3. Veriyi ist
+3. Veriyi istedigim yerden alip, tutup, dondurmek.
